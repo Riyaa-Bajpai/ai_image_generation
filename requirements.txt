@@ -1,0 +1,15 @@
+# Stable Diffusion
+torch
+torchvision
+torchaudio
+diffusers==0.28.0
+transformers
+accelerate
+safetensors
+Pillow
+
+# Web UI
+streamlit
+
+# Tunnels (only for Colab use)
+pyngrok
